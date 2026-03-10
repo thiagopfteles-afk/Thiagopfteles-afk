@@ -1,13 +1,10 @@
-# Hi 👋, I'm Herbert Souza
+# Hi 👋, I'm Thiago Teles
 
-🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
-🇧🇷 Brazil
-
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
-
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
-
+Systems Analysis and Development student, with hands-on experience building projects using HTML, CSS, JavaScript, React, and Python. This background provided me with a solid foundation in both front-end and back-end development, as well as a broader understanding of the software development lifecycle.
+Currently directing my studies toward the C# and .NET ecosystem, with a focus on building a consistent specialization in back-end development within the Microsoft stack.
+I value clean code, best practices, and the continuous pursuit of well-structured solutions.
+📌 Current stack: C# .NET OOP Clean Code
+🌐 Previous experience: JavaScript React Python HTML/CSS
 ---
 
 ## 🌐 Where to find me
