@@ -1,90 +1,46 @@
-# Hi 👋, I'm Thiago Teles
+# 👋 Hi, I'm Thiago Teles
 
-Systems Analysis and Development student, with hands-on experience building projects using HTML, CSS, JavaScript, React, and Python. This background provided me with a solid foundation in both front-end and back-end development, as well as a broader understanding of the software development lifecycle.
-Currently directing my studies toward the C# and .NET ecosystem, with a focus on building a consistent specialization in back-end development within the Microsoft stack.
-I value clean code, best practices, and the continuous pursuit of well-structured solutions.
-📌 Current stack: C# .NET OOP Clean Code
-🌐 Previous experience: JavaScript React Python HTML/CSS
----
+**Software Developer | Backend & Enterprise Solutions**  
+*Systems Analysis & Development Student at UNINASSAU Aracaju*
 
-## 🌐 Where to find me
-
-<p align="left">
-  <a href="https://github.com/thiagopfteles-afk">
-    <img src="https://img.shields.io/badge/GitHub-ThiagoTeles-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://instagram.com/thigas.tt">
-    <img src="https://img.shields.io/badge/Instagram-@THIGAS.TT-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-<!--  <a href="https://www.tiktok.com/@oreidosites">
-    <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
-  </a>
- <!-- <a href="https://www.youtube.com/@oreidosites">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</p>
+I specialize in building scalable, secure backend systems using the **Java & Spring Boot** ecosystem, database modeling, and predictive **Machine Learning** integration. Alongside core backend engineering, I maintain active projects in **Python** and full-stack web development (**React** & modern Web Stack).
 
 ---
 
-## 🧠 What I do
+### 🛠️ Tech Stack & Capabilities
 
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
--   🎓 Teaching & mentoring developers
+**Backend & Architecture**  
+![Java](https://img.shields.io/badge/Java_22-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
----
+**Databases & Infrastructure**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🛠️ Tech Stack
+**Frontend & Ecosystem Expansion**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Frontend
-
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
-
-### DevOps & Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+**Data Science & Machine Learning**  
+![Weka](https://img.shields.io/badge/Weka-3776AB?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+### 📌 Key Highlights & Featured Projects
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Philosophy
-
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+- 🛡️ **Silver Economy MVP (Core REST API):** Architecting a Java 22 / Spring Boot micro-backend delivering anti-fraud security and emergency dispatch services for senior citizens[cite: 1].
+- 🤖 **Predictive AI Integration:** Integrating classification and machine learning models (Weka / Python APIs) into production backend architectures for real-time risk assessment[cite: 1].
+- 🚀 **Full-Stack Evolution:** Expanding engineering capabilities across Angular and React for seamless API integration and high-performance Web/Mobile interfaces[cite: 1].
 
 ---
 
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+### 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-handle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
