@@ -34,13 +34,13 @@ I specialize in building scalable, secure backend systems using the **Java & Spr
 
 ### 📌 Key Highlights & Featured Projects
 
-- 🛡️ **Silver Economy MVP (Core REST API):** Architecting a Java 22 / Spring Boot micro-backend delivering anti-fraud security and emergency dispatch services for senior citizens[cite: 1].
-- 🤖 **Predictive AI Integration:** Integrating classification and machine learning models (Weka / Python APIs) into production backend architectures for real-time risk assessment[cite: 1].
-- 🚀 **Full-Stack Evolution:** Expanding engineering capabilities across Angular and React for seamless API integration and high-performance Web/Mobile interfaces[cite: 1].
+- 🛡️ **Silver Economy MVP (Core REST API):** Architecting a Java 22 / Spring Boot micro-backend delivering anti-fraud security and emergency dispatch services for senior citizens.
+- 🤖 **Predictive AI Integration:** Integrating classification and machine learning models (Weka / Python APIs) into production backend architectures for real-time risk assessment.
+- 🚀 **Full-Stack Evolution:** Expanding engineering capabilities across Angular and React for seamless API integration and high-performance Web/Mobile interfaces.
 
 ---
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-handle)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-teles-2441ab360)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagopfteles@gmail.com)
