@@ -44,3 +44,4 @@ I specialize in building scalable, secure backend systems using the **Java & Spr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-teles-2441ab360)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagopfteles@gmail.com)
+[![Estatísticas do GitHub de Thiago](https://github-readme-stats.vercel.app/api?username=Thiagopfteles-afk&show_icons=true&theme=dracula&hide_border=true)](https://github.com/Thiagopfteles-afk)
